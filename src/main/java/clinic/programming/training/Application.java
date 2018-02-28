@@ -6,7 +6,7 @@ import java.util.List;
 public class Application {
     
 	public void greet(){
-		List<String> greet = new ArrayList<>();
+		List<String> greetings = new ArrayList<>();
 		greetings.add("hello");
 		
 		for(String greeting : greetings){
